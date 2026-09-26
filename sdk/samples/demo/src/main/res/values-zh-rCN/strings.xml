@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ANIP 演示</string>
+    <string name="refresh">更新</string>
+    <string name="icon_category">类别</string>
+    <string name="icon_category_all">全部</string>
+    <string name="icon_category_app">第三方应用</string>
+    <string name="icon_category_game">游戏</string>
+    <string name="icon_category_system">系统</string>
+    <string name="settings">设置</string>
+    <string name="settings_source_template">来源模板</string>
+    <string name="settings_source_github">GitHub Releases</string>
+    <string name="settings_source_gitlab">GitLab Releases</string>
+    <string name="settings_source_static">静态托管</string>
+    <string name="settings_source_custom">自定义 URL</string>
+    <string name="settings_source_github_repository">填写 GitHub 存储库</string>
+    <string name="settings_source_gitlab_project">填写 GitLab 项目</string>
+    <string name="settings_source_static_base_url">填写静态托管基础 URL</string>
+    <string name="settings_source_custom_manifest_url">填写资源清单 URL</string>
+    <string name="settings_source_invalid">请填写有效的来源参数</string>
+    <string name="restore_default_source">恢复默认来源</string>
+    <string name="save">保存</string>
+    <string name="system_variant">系统类型</string>
+    <string name="system_variant_unset">未设置</string>
+    <string name="system_variant_common">通用</string>
+    <string name="system_variant_mios">HyperOS/MIUI</string>
+    <string name="system_variant_coloros">ColorOS</string>
+    <string name="search">搜索</string>
+    <string name="search_hint">搜索名称、包名或贡献者</string>
+    <string name="clear_search">清除搜索内容</string>
+    <string name="sort_direction">排序方向</string>
+    <string name="sort_method">排序方式</string>
+    <string name="sort_by_name">按名称</string>
+    <string name="sort_by_added">按添加</string>
+    <string name="sort_ascending">正序排列</string>
+    <string name="sort_descending">倒序排列</string>
+    <string name="cancel">取消</string>
+    <string name="test_notification_prompt">推送此应用的测试通知吗？</string>
+    <string name="test_notification_content">这是一条测试通知</string>
+    <string name="test_notification_channel_name">ANIP 测试通知</string>
+    <plurals name="icon_resources_count">
+        <item quantity="other">共 %1$d 个图标资源</item>
+    </plurals>
+    <string name="fetch_status_updated">已更新</string>
+    <string name="fetch_status_up_to_date">已是最新</string>
+    <string name="fetch_status_failed">更新失败</string>
+    <string name="no_icon_resources">暂无可用的图标资源</string>
+    <string name="no_matching_icon_resources">没有符合条件的图标资源</string>
+    <string name="contributors">贡献者：%1$s</string>
+    <string name="overlay">覆盖</string>
+    <string name="copy_package_name">复制包名</string>
+</resources>

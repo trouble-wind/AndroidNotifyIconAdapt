@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_primary">#FF596A8D</color>
+    <color name="material_on_primary">#FF000000</color>
+    <color name="material_primary_container">#45596A8D</color>
+    <color name="material_on_primary_container">#FF596A8D</color>
+    <color name="material_secondary">#FF596A8D</color>
+    <color name="material_on_secondary">#FF000000</color>
+    <color name="material_secondary_container">#45596A8D</color>
+    <color name="material_on_secondary_container">#FF596A8D</color>
+    <color name="material_background">#FF000000</color>
+    <color name="material_surface">#FF1A1A1A</color>
+    <color name="material_surface_container_low">#FF000000</color>
+    <color name="material_surface_container_high">#FF1A1A1A</color>
+    <color name="material_surface_container_highest">#FF373737</color>
+    <color name="material_on_surface">#FFE3E3E3</color>
+    <color name="material_on_surface_variant">#FFBBBBBB</color>
+    <color name="material_control_highlight">#A6596A8D</color>
+    <color name="material_outline">#FFBBBBBB</color>
+    <color name="material_outline_variant">#A6596A8D</color>
+    <color name="material_error">#FFF44336</color>
+</resources>

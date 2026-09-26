@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.DefaultAppTheme.PopupMenu" parent="Widget.AppCompat.PopupMenu">
+        <item name="android:dropDownSelector">@android:color/transparent</item>
+        <item name="android:popupBackground">@drawable/popup_menu_background</item>
+        <item name="android:popupElevation">8dp</item>
+    </style>
+
+    <style name="Widget.DefaultAppTheme.ListMenuView" parent="Widget.AppCompat.ListMenuView">
+        <item name="android:itemBackground">@drawable/popup_menu_item_background</item>
+        <item name="android:itemTextAppearance">@style/TextAppearance.DefaultAppTheme.PopupMenu</item>
+    </style>
+
+    <style name="TextAppearance.DefaultAppTheme.PopupMenu" parent="TextAppearance.AppCompat.Widget.PopupMenu.Large">
+        <item name="android:textColor">@color/popup_menu_item_text</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>
