@@ -5064,5 +5064,12 @@
     "color": "#191C9C",
     "overlay": false,
     "contributors": "fankes, Zori9527"
+  },
+  "com.bly.dkplat": {
+    "label": "小X分身",
+    "format": "png",
+    "color": "#518EF0",
+    "overlay": false,
+    "contributors": "fankes, zxygood"
   }
 }
